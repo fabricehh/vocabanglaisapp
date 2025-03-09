@@ -1,4 +1,4 @@
-La protection de vos données personnelles est importante pour nous. Cette politique de confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons et protégeons vos informations dans le cadre de l'utilisation de l'application mobile **VocabAnglais**.
+La protection de vos données personnelles est importante pour nous. Cette politique de confidentialité a pour but de vous informer sur la manière dont nous collectons, utilisons et protégeons vos informations dans le cadre de l'utilisation de l'application mobile **Vocab Anglais**.
 
 ##### 1. Informations Collectées
 
